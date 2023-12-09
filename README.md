@@ -11,6 +11,10 @@
   - 3D Game Programming
   - Analysis of Algorithms
   - Advanced Computed Architecture
+- 🌱Programming Languages
+  - C++
+  - Python
+  - SQL  
 - 💞️ **Projects**
   - **Scheduling Algorithm Simulator (C++**) ---> created a simulator for scheduling algorithms (First-Come-First-Served(FCFS), Shortest-Job-Next(SJN) and Round-Robin(RR) to explore their efficiences and behaviors. Analyzed the simulation results using Excel and Power Bi to derive actionable insights.
   - **Game Development with Stencyl** ---> Successfully designed and developed a game that aimed not only to enttertain players but also to educate and reinforce safe driving practices through interactive gameplay.
