@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nancy A. Forson. I'm a computer student deeply passionate about leveraging technology to create meaningful experiences. My journey has been an exciting mix of academic learning and practical application. 
 - 👀 I’m nurturing a keen interest in:
   - **Data Analysis & Visualization**---> I'm enthusiatic about translating complex data into visually appealing and informative representations. I've used Excel, PowerBi and other tools to analyze and present insights from simulations and research projects.
-  - **Game Design & Development**---> Having designed and devoloped a game using Stencyl, I'm continuously exploring the realm of 3D game programming and learning the ropes of creating immersive gaming experiences.
+  - **Game Design & Development**---> Having designed and developed a game using Stencyl, I'm continuously exploring the realm of 3D game programming and learning the ropes of creating immersive gaming experiences.
   - **IoT Security Analytics** ---> My recent focus has been on researching IoT security Analytics, delving into the depths of this critical area and using PowerBi to visualize findings.
 - 🌱 **Academic pursuits** ---> My coursework at Norfolk State University has equipped me with a solid foundation in various key areas in Computer Science such as
   - Operating Systems
